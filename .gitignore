@@ -1,1 +1,13 @@
 
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de macOS
+.DS_Store
